@@ -32,4 +32,4 @@ async def score(ctx):
     except Exception as e:
         await ctx.send(f"An error occurred: {e}")
 
-bot.run('MTIxNjAzMDE0NTYwNTkyNjk1NQ.GzyUvF.AeqQfr6MrupkHAspiQNnYhvkbkPwfp7gFYmZRE')
+bot.run('YOUR TOKEN')
