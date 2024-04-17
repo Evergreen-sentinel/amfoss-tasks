@@ -1,0 +1,59 @@
+.body{
+    background-image: url(backdrop.png);
+    background-repeat: no-repeat;
+    background-color: midnightblue;
+    height: 100%;
+}
+
+.pic0{
+    position: absolute;
+    left: 650px;
+    bottom: 200px;
+}
+
+.pic1{
+    height: 30px;
+    width: 30px;
+}
+
+.next{
+
+    position: absolute;
+    left: 800px;
+    bottom: 100px;
+    background-image: url(/home/kid_2166/Desktop/AmFoss/task-05/arrow-next.svg);
+    background-position: 150px;
+    background-repeat: no-repeat;
+    height: 40px;
+    width: 200px;
+    background-color: aqua;
+}
+
+.pic2{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 10px;
+
+}
+
+.pic3{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 60px;
+}
+
+.pic4{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 110px;
+}
+
+.pic5{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 160px;
+}

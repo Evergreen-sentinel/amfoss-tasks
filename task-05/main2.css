@@ -1,0 +1,124 @@
+.body{
+    background-color: rgb(8, 8, 59);
+}
+
+.pic1{
+    height: 30px;
+    width: 30px;
+}
+
+.pic2{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 10px;
+
+}
+
+.pic3{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 60px;
+}
+
+.pic4{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 110px;
+}
+
+.pic5{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 160px;
+}
+
+.one{
+    position: absolute;
+    left: 450px;
+    top: 120px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
+
+  
+  .container{
+    display: flex;
+    row-gap: 2em;
+    column-gap: 2em;
+  }
+
+  .container2{
+    display: flex;
+    row-gap: 2em;
+    column-gap: 2em;
+  }
+
+  .container3{
+    display: flex;
+    row-gap: 2em;
+    column-gap: 2em;
+  }
+
+  .box{
+    width: 170px;
+    height: 170px;
+    text-align: center;
+    border-radius: 15px;
+  }
+
+  #box1{
+    background-color: rgb(14, 7, 35);
+    padding: 2px;
+  }
+  #box2{
+    background-color: rgb(14, 7, 35);
+  }
+  #box3{
+    background-color: rgb(14, 7, 35);
+  }
+  #box4{
+    background-color: rgb(14, 7, 35);
+  }
+  #box5{
+    background-color: rgb(14, 7, 35);
+  }
+  #box6{
+    background-color: rgb(14, 7, 35);
+  }
+  #box7{
+    background-color: rgb(14, 7, 35);
+  }
+  #box8{
+    background-color: rgb(14, 7, 35);
+  }
+  #box9{
+    background-color: rgb(14, 7, 35);
+  }
+  #box10{
+    background-color: rgb(14, 7, 35);
+  }
+  #box11{
+    background-color: rgb(14, 7, 35);
+  }
+  #box12{
+    background-color: rgb(14, 7, 35);
+  }
