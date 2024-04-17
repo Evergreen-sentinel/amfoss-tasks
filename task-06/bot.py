@@ -42,4 +42,4 @@ async def on_message(message):
         await message.channel.send('Score 1: '+d+'\n')
 
 
-client.run('YOUR TOKEN')
+
